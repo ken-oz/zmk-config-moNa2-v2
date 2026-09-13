@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - {t: '&to_layer_0 P', h: '6'}
-  - A
+  - {t: A, h: LCTRL}
   - S
   - D
   - F
@@ -54,10 +54,10 @@ layers:
   - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '`'
   - $
   - '%'
-  - LCTRL
+  - ^
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -65,7 +65,7 @@ layers:
   - )
   - \
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '-'
   - '!'
   - '@'
   - '#'
@@ -92,33 +92,33 @@ layers:
   - '8'
   - '9'
   - +
-  - ^
-  - '&'
-  - '*'
-  - '-'
-  - _
+  - {t: ▽, type: trans}
+  - F7
+  - F8
+  - F9
+  - F12
   - {t: ▽, type: trans}
   - '4'
   - '5'
   - '6'
   - '-'
   - {t: ▽, type: trans}
-  - '&mkp MB3'
-  - '&mkp MB1'
-  - '&mkp MB2'
-  - '='
-  - +
+  - {t: ▽, type: trans}
+  - F4
+  - F5
+  - F6
+  - F11
   - '0'
   - '1'
   - '2'
   - '3'
-  - Sft+=
-  - F11
-  - F12
-  - F6
-  - F7
-  - F8
-  - F9
+  - '='
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - F1
+  - F2
+  - F3
+  - {t: ▽, type: trans}
   - F10
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -227,15 +227,15 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&mkp MB3'
-  - '&mkp MB2'
-  - '&mkp MB1'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB1'
-  - '&mkp MB2'
   - '&mkp MB3'
+  - '&mkp MB2'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -245,9 +245,9 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '&mkp MB4'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&mkp MB5'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
