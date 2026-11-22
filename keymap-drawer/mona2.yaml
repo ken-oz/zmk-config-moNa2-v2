@@ -16,11 +16,11 @@ layers:
   - D
   - F
   - G
-  - ;
   - H
   - J
   - K
   - L
+  - ;
   - {t: '-', h: '6'}
   - {t: Z, h: LEFT SHIFT}
   - X
